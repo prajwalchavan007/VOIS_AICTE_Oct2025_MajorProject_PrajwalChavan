@@ -19,9 +19,9 @@ Supporting strategic investments in specific content types and countries.
 
 🧑‍💻End Users
 
-Netflix Management and Strategy Team
-Netflix Content and Production Teams
-Netflix Data Analytics and Insights Department
-Data Analysts and Data Scientists (in the OTT or media industry)
-Academic Researchers and Students (studying data analytics or media trends)
-Business Analysts and Market Researchers
+1. Netflix Management and Strategy Team
+2. Netflix Content and Production Teams
+3. Netflix Data Analytics and Insights Department
+4. Data Analysts and Data Scientists (in the OTT or media industry)
+5. Academic Researchers and Students (studying data analytics or media trends)
+6. Business Analysts and Market Researchers
